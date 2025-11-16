@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://nihil-art.github.io/Rhythms-Manjeri/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://nihil-art.github.io/Rhythms-Manjeri/about.html</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://nihil-art.github.io/Rhythms-Manjeri/gallery.html</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://nihil-art.github.io/Rhythms-Manjeri/contact.html</loc>
+    <priority>0.80</priority>
+  </url>
+
+</urlset>

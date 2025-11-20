@@ -193,7 +193,6 @@ button:focus, a:focus { outline: 3px solid #cfe3ff; outline-offset: 2px; }
 
  
   body { display: block; }
-}
 .gallery-img2{
     width: 400px;
 }
@@ -201,6 +200,7 @@ button:focus, a:focus { outline: 3px solid #cfe3ff; outline-offset: 2px; }
     width: 400px;
 }
 .para{font-size: 15px;}
+}
 @media (max-width: 480px) {
   .container { padding: 10px 10px; }
   .local { font-size: 18px; text-align: left; padding-left: 6px; }
@@ -246,4 +246,17 @@ button:focus, a:focus { outline: 3px solid #cfe3ff; outline-offset: 2px; }
   border-radius: 6px;
   margin-top: 5px;
 }
+}
+@media (max-width: 480px) {
+  html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+  }
+    /* Make header nav buttons slightly smaller and closer together on phones only */
+  .container .left td { padding: 0 4px; }
+  .container .left button {
+    padding: 5px 8px;
+    font-size: 13px;
+    line-height: 1;
+  }
 }
